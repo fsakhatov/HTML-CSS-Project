@@ -429,6 +429,13 @@ color: rgba(0, 0, 0, 1);
     /* margin-left: 10%; */
     font-size: 23px;
 }
+.container .section6 .section61{
+    margin-right: 20px;
+}
+.container .section6 .section62{
+    margin-top: 40px;
+    margin-right: 20px;
+}
 .container .section6 .section61 p,
 .container .section6 .section62 p,
 .container .section6 .section63 p{
@@ -616,6 +623,7 @@ color: rgba(0, 0, 0, 1);
         display: flex;
         flex-direction: column;
         gap: 100px;
+        padding: 0;
     }
     .container .section7{
         position: relative;
