@@ -120,7 +120,7 @@ font-size: 20px;
     display: none;
 }
 .container .section2 .section22{
-    background-image: url(./rasm1.jpg) ;
+    background-image: url(./images/rasm1.jpg) ;
     background-repeat: no-repeat;
     background-position: contain;
     background-size: cover;
@@ -138,7 +138,7 @@ font-size: 20px;
     display: none;
 }
 .container .section3 .section31{
-    background-image: url(./rasm2.jpg) ;
+    background-image: url(./images/rasm2.jpg) ;
     background-repeat: no-repeat;
     background-position: contain;
     background-size: cover;
@@ -244,7 +244,7 @@ color: rgba(0, 0, 0, 1);
         display: none;
     }
     .container .section4 .section42{
-        background-image: url(./rasm3.jpg) ;
+        background-image: url(./images/rasm3.jpg) ;
         background-repeat: no-repeat;
         background-position: contain;
         background-size: cover;
@@ -259,7 +259,7 @@ color: rgba(0, 0, 0, 1);
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   .container .section5 .section51{
-    background-image: url(./rasm4.png);
+    background-image: url(./images/rasm4.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -274,6 +274,7 @@ color: rgba(0, 0, 0, 1);
   }
   .container .section5 .section51:hover{
     transform: translateY(-70px);
+    transition: 0.5s;
 
   }
 
@@ -297,7 +298,7 @@ color: rgba(0, 0, 0, 1);
     align-items: center;
   }
   .container .section5 .section52{
-    background-image: url(./rasm5.png);
+    background-image: url(./images/rasm5.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -310,6 +311,7 @@ color: rgba(0, 0, 0, 1);
   }
   .container .section5 .section52:hover{
     transform: translateY(-70px);
+    transition: 0.5s;
 
   }
 
@@ -333,7 +335,7 @@ color: rgba(0, 0, 0, 1);
     align-items: center;
   }
   .container .section5 .section53{
-    background-image: url(./rasm6.png);
+    background-image: url(./images/rasm6.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -346,6 +348,7 @@ color: rgba(0, 0, 0, 1);
   }
   .container .section5 .section53:hover{
     transform: translateY(-70px);
+    transition: 0.5s;
 
   }
 
@@ -369,7 +372,7 @@ color: rgba(0, 0, 0, 1);
     align-items: center;
   }
   .container .section5 .section54{
-    background-image: url(./rasm7.png);
+    background-image: url(./images/rasm7.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -382,6 +385,7 @@ color: rgba(0, 0, 0, 1);
   }
   .container .section5 .section54:hover{
     transform: translateY(-70px);
+    transition: 0.5s;
 
   }
 
