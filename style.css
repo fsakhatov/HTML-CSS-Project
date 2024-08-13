@@ -12,9 +12,7 @@ body{
     /* margin: auto; */
     /* padding: 50px; */
 }
-button:hover{
-    transition: all 0.5s ease-out allow-discrete;
-}
+
 .container .section1{
     text-transform: uppercase;
     display: grid;
