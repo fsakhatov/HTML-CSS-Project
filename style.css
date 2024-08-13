@@ -271,7 +271,7 @@ color: rgba(0, 0, 0, 1);
     margin: 0;
     padding: 0;
     cursor: pointer;
-    transition: all 0.5s ease-out allow-discrete;
+    transition: all 0.8s ease-out allow-discrete;
   }
   .container .section5 .section51:hover{
     transform: translateY(-70px);
@@ -308,6 +308,7 @@ color: rgba(0, 0, 0, 1);
     justify-content:end;
     gap: 0px;
     cursor: pointer;
+    transition: all 0.8s ease-out allow-discrete;
   }
   .container .section5 .section52:hover{
     transform: translateY(-70px);
@@ -345,6 +346,7 @@ color: rgba(0, 0, 0, 1);
     justify-content:end;
     gap: 0px;
     cursor: pointer;
+    transition: all 0.8s ease-out allow-discrete;
   }
   .container .section5 .section53:hover{
     transform: translateY(-70px);
@@ -382,6 +384,7 @@ color: rgba(0, 0, 0, 1);
     justify-content:end;
     gap: 0px;
     cursor: pointer;
+    transition: all 0.8s ease-out allow-discrete;
   }
   .container .section5 .section54:hover{
     transform: translateY(-70px);
