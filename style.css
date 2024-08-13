@@ -271,10 +271,10 @@ color: rgba(0, 0, 0, 1);
     margin: 0;
     padding: 0;
     cursor: pointer;
+    transition: 0.5s;
   }
   .container .section5 .section51:hover{
     transform: translateY(-70px);
-    transition: 0.5s ease;
 
   }
 
