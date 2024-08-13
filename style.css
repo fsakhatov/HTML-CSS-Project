@@ -312,8 +312,7 @@ color: rgba(0, 0, 0, 1);
   }
   .container .section5 .section52:hover{
     transform: translateY(-70px);
-    transition: 0.5s;
-
+    transition: all 0.5s ease-out allow-discrete;
   }
 
   .container .section5 .section52 h5{
@@ -350,8 +349,7 @@ color: rgba(0, 0, 0, 1);
   }
   .container .section5 .section53:hover{
     transform: translateY(-70px);
-    transition: 0.5s;
-
+    transition: all 0.5s ease-out allow-discrete;
   }
 
   .container .section5 .section53 h5{
@@ -388,8 +386,7 @@ color: rgba(0, 0, 0, 1);
   }
   .container .section5 .section54:hover{
     transform: translateY(-70px);
-    transition: 0.5s;
-
+    transition: all 0.5s ease-out allow-discrete;
   }
 
   .container .section5 .section54 h5{
